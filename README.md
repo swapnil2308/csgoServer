@@ -1,2 +1,2 @@
-# csgoServer
+# CSGO Server
 CSGO Server
